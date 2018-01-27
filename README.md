@@ -1,5 +1,13 @@
 # Hydejack Starter Kit
 
+## CN Quick Start
+1. add a category: register a category in _feature_categories
+1. mkdir \_posts/<the_category>
+1. vim \_posts/<the_category>/<the_post>
+1. `bundle exec jekyll serve`
+1. Open http://localhost:4000
+
+
 A quicker, cleaner way to get started blogging with [Hydejack](https://qwtel.com/hydejack/).
 
 ## Quick Start
